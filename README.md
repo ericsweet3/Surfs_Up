@@ -18,4 +18,4 @@ Looking at the two charts you can see that the mean and the max temperatures onl
 
 2) After finding out the spring and fall temps, there needs to be an analysis for the sustainability of whether or not the ice cream/surf shop will do well in non-peak seasons (such as spring and fall).
 
-3) Next we should find out more about the precipitation for specific island locations, especially where the shop would be located. 
+3) Next we should find out more about the precipitation for specific island locations, especially where the shop would be located. Weather affecting business is not only confined to just temperatures. If it is discovered that heavy rainfall or other tempestuous weather is prevelant in the area, then a location for the shop should be considered.
