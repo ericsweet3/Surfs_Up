@@ -5,7 +5,8 @@
 For this project, we set out to find the temperatures year round for the Hawaiian Island of Oahu to discover the viability of a surfing and ice cream shop. The months of June and December were analyzed for this project.
 
 ## Results
-- add pictures
+![June Temps](https://user-images.githubusercontent.com/75768098/110345959-b6c45500-7ff4-11eb-9c2b-7f76dcde6bc9.png)
+![December Temps](https://user-images.githubusercontent.com/75768098/110345966-b88e1880-7ff4-11eb-9883-2b008e14a248.png)
 
 
 Looking at the two charts you can see that the mean and the max temperatures only vary by around 8 degrees, which shows that the weather is generally pretty stable in both the summer and winter seasons.
